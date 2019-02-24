@@ -1,0 +1,21 @@
+body {
+  background: lightgrey;
+
+}
+
+
+
+
+
+
+
+footer {
+  background: #343a40;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width:  100%;
+  margin: bottom, 0px;
+  padding: 21px;
+  text-align: center;
+}
