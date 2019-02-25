@@ -1,12 +1,7 @@
 body {
-  background: lightgrey;
-
+  background-image: url(../marble-background-png-1.png);
+  width: 100%;
 }
-
-
-
-
-
 
 
 footer {
@@ -19,3 +14,4 @@ footer {
   padding: 21px;
   text-align: center;
 }
+/* Portfolio page */
