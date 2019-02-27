@@ -10,14 +10,14 @@ body {
   position: relative;
 }
 
-.container {
+.main-container {
   position: relative;
   max-width: 960px;
 }
 
 .row  {
   float: left;
-  margin: 30px;
+  margin: 20px;
 
 }
 
