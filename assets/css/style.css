@@ -15,13 +15,15 @@ body {
   max-width: 960px;
 }
 
-#row section {
+.row  {
   float: left;
+  margin: 30px;
 
 }
 
 
 footer {
+  clear: both;
   background: #343a40;
   color: white;
   position: fixed;
